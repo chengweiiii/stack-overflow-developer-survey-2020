@@ -14,9 +14,9 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 This project is part of Udacity Data Scientist Nano-Degree. For this project, I am interested in using latest Stack Overflow data from 2020 to better understand:
 
-1. Who are the Data Scientist? What's the differences between data scientist and other developers?
-2. How do we explore such amount of data? How can we get quick idea before really dig deeper?
-3. Is there a fast and scalable way to explore and compare the difference?
+1. Who are data scientist? Whats their profile?
+2. What's the difference between data scientist and other developers
+3. What tools (language, platform, database…) do data scientists use?
 
 ## Project Descriptions <a name="files"></a>
 
@@ -24,7 +24,7 @@ The main notebook "stackoverflow_analytics.ipynb" provides a simple, fast and sc
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/p/8158f145e393/edit).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
