@@ -3,7 +3,7 @@
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [Project Descriptions](#files)
-4. [Results](#results)
+4. [Results & Findings](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
