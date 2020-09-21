@@ -3,8 +3,9 @@
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [Project Descriptions](#files)
-4. [Results & Findings](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+4. [CRISP-DM Process](#CRISP)
+5. [Results & Findings](#results)
+6. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
