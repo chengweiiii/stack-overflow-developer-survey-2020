@@ -4,8 +4,9 @@
 2. [Project Motivation](#motivation)
 3. [Project Descriptions](#files)
 4. [CRISP-DM Process](#CRISP)
-5. [Results & Findings](#results)
-6. [Licensing, Authors, and Acknowledgements](#licensing)
+5. [Handle the missing values](#MISSING_VALUE)
+6. [Results & Findings](#results)
+7. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
@@ -24,9 +25,11 @@ This project is part of Udacity Data Scientist Nano-Degree. For this project, I 
 
 The main notebook "stackoverflow_analytics.ipynb" provides a simple, easy and scalable way to explore and analyze structured questionaires like Stack Overflow Survey before really dig deeper into it. Ｗe can get the big picture of different groups and general feelings of data just by selecting interested column and run the plotting code.
 
-
 ## CRISP-DM Process <a name="CRISP"></a>
-The main notebook "stackoverflow_analytics.ipynb" demonstrate a simplify version of CRISP-DM process. You can follow the header to understand which step of the process we are going through.
+The main notebook "stackoverflow_analytics.ipynb" demonstrate a simplify version of CRISP-DM process. Please read the H1 header in [HERE](https://github.com/chengweiiii/stack-overflow-developer-survey-2020/blob/master/stackoverflow_analytics.ipynb). The notebook has cover ALL the steps(Business Understanding, Data Understanding, Prepare Data, Data Modeling, Evaluate the Results) of CRISP-DM process.
+
+## Handle the missing values  <a name="MISSING_VALUE"></a>
+There are lots of missing values in the data, if you want to know how i handle the missing values, please read on my Jupyternote book.
 
 ## Results & Findings <a name="results"></a>
 
