@@ -33,7 +33,7 @@ There are lots of missing values in the data, if you want to know how i handle t
 
 ## Results & Findings <a name="results"></a>
 
-The main findings of the code can be found at the blog post available [here](https://medium.com/p/8158f145e393/edit).
+The main findings of the code can be found at the blog post available [here](https://medium.com/@chengweii.c/want-to-be-a-data-scientist-have-a-quick-look-at-data-scientists-profile-on-stack-overflow-survey-8158f145e393).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
