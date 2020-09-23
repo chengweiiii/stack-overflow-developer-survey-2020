@@ -29,7 +29,7 @@ The main notebook "stackoverflow_analytics.ipynb" provides a simple, easy and sc
 The main notebook "stackoverflow_analytics.ipynb" demonstrate a simplify version of CRISP-DM process. Please read the H1 header in [HERE](https://github.com/chengweiiii/stack-overflow-developer-survey-2020/blob/master/stackoverflow_analytics.ipynb). The notebook has cover ALL the steps(Business Understanding, Data Understanding, Prepare Data, Data Modeling, Evaluate the Results) of CRISP-DM process.
 
 ## Handle the missing values  <a name="MISSING_VALUE"></a>
-There are lots of missing values in the data, if you want to know how i handle the missing values, please read on my Jupyternote book.
+There are lots of missing values in the data, if you want to know how i handle the missing values, please read on my [Jupyternote book](https://github.com/chengweiiii/stack-overflow-developer-survey-2020/blob/master/stackoverflow_analytics.ipynb)
 
 ## Results & Findings <a name="results"></a>
 
